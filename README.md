@@ -30,6 +30,8 @@ A collection of apps, websites, repos... for learning and playing music (and cod
 ## Instrument Learner
 
 ### Guitar
+- [Guitar Music Theory](https://www.theguitarlesson.com/guitar-theory/) - Learning guitar theory, so music theory is specific to the guitar.
+- [Songsterr](https://www.songsterr.com/) - Guitar, bass and drum tabs & chords with free online tab player.
 
 ### Piano
 
