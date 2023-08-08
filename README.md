@@ -9,28 +9,31 @@ A collection of apps, websites, repos... for learning and playing music (and cod
       * [Guitar](#guitar)
       * [Piano](#piano)
    * [For Developer](#for-developer)
-      * [Digital sheet music format](#digital_sheet_music_format)
-      * [Music Font](#music_font)
-      * [Music notation rendering library](#music_notation_rendering_library)
-      * [Web Audio](#web_audio)
+      * [Digital sheet music format](#digital-sheet-music-format)
+      * [Music Font](#music-font)
+      * [Music notation rendering library](#music-notation-rendering-library)
+      * [Web Audio](#web-audio)
+
 <!--te-->
 </details>
-
-## Music Trainer
-- [Ableton - Learning Synths](https://learningsynths.ableton.com/) - you’ll learn the basics of using synthesizers (or synths).
-- [ableton - Learning Music Making](https://learningmusic.ableton.com/) - you'll learn the basics of music making.
-- [EarBeater](https://www.earbeater.com/online-ear-training) - Train your musical ear in more than 200 individual exercises covering intervals, chords, and scales.
-- [Perfect Ear (Mobile)](https://www.perfectear.app/) - A music school in your pocket: solfège, ear training, singing, rhythm training exercises.
 
 ## Music Theory
 - [Music Theory](https://www.musictheory.net/) - Introductory and intermediate music theory lessons, exercises, ear trainers, and calculators.
 
-## Instrument Learner
-### Guitar :guitar: 
+## Music Trainer
+- [Ableton - Learning Synths](https://learningsynths.ableton.com/) - you’ll learn the basics of using synthesizers (or synths).
+- [Ableton - Learning Music Making](https://learningmusic.ableton.com/) - you'll learn the basics of music making.
+- [EarBeater](https://www.earbeater.com/online-ear-training) - Train your musical ear in more than 200 individual exercises covering intervals, chords, and scales.
+- [Perfect Ear (Mobile)](https://www.perfectear.app/) - A music school in your pocket: solfège, ear training, singing, rhythm training exercises.
 
-### Piano :musical_keyboard:
+## Instrument Learner
+
+### Guitar
+
+### Piano
 
 ## For Developer
+
 ### Digital sheet music format
 - [MusicXML 4.0](https://www.w3.org/2021/06/musicxml40/) is a standard open format for exchanging digital sheet music.
 - [Music Encoding Initiative (MEI)](https://music-encoding.org/) is a community-driven, open-source effort to define a system for encoding musical documents in a machine-readable structure.
