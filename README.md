@@ -8,6 +8,10 @@ A collection of apps, websites, repos... for learning and playing music
       * [Guitar](#guitar)
       * [Piano](#piano)
    * [For Developer](#for-developer)
+      * [Digital sheet music format](#digital_sheet_music_format)
+      * [Music Font](#music_font)
+      * [Music notation rendering library](#music_notation_rendering_library)
+      * [Web Audio](#web_audio)
 <!--te-->
 </details>
 
