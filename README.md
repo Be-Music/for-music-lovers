@@ -19,6 +19,7 @@ A collection of apps, websites, repos... for learning and playing music (and cod
 
 ## Music Theory
 - [Music Theory](https://www.musictheory.net/) - Introductory and intermediate music theory lessons, exercises, ear trainers, and calculators.
+- [List of musical symbols](https://www.wikiwand.com/en/List_of_musical_symbols) are marks and symbols in musical notation that indicate various aspects of how a piece of music is to be performed.
 
 ## Music Trainer
 - [Ableton - Learning Synths](https://learningsynths.ableton.com/) - you’ll learn the basics of using synthesizers (or synths).
